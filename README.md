@@ -8,8 +8,8 @@
 - added comments
 - proper indentations and spacings
 
-![screenshot1](./assets/images/screenshot1.png)
-![screenshot2](./assets/images/screenshot2.png)
-
 deployed application: https://tjp4ca.github.io/horiseon-hw1/
 github repository: https://github.com/tjp4ca/horiseon-hw1
+
+![screenshot1](./assets/images/screenshot1.png)
+![screenshot2](./assets/images/screenshot2.png)
