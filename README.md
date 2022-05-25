@@ -2,9 +2,9 @@
 
 - changed the title to Horiseon
 - added alt attributes to images
-- gave an id to search engin optimization in html
+- gave an id to search engine optimization in html
 - grouped duplicate codes in css
-- replaced all <div>s with <header>, <footer>, <main>, <aside>, <section>
+- replaced all divs with header, footer, main, aside, section
 - added comments
 - proper indentations and spacings
 
